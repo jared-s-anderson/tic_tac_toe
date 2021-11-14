@@ -10,7 +10,7 @@ differences in language syntax.
 
 Below is a video demonstration of my tic tac toe program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/BhvDP4fR9rg)
 
 # Development Environment
 
